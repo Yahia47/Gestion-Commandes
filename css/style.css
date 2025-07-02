@@ -1,0 +1,19 @@
+main > .container {
+    padding: 60px 15px 0px;
+}
+h1.mt-5 {
+        margin-top: 7rem !important;
+}
+
+.toast-success {
+  background-color: #28a745 !important; /* Vert */
+}
+
+.toast-error {
+  background-color: #dc3545 !important; /* Rouge */
+}
+
+
+
+
+
